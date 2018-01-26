@@ -1,7 +1,7 @@
 {
   "name": "html-webpack-loader",
-  "version": "0.0.3",
-  "description": "html-style-loader: 用于处理html页面内的图片,json等资源引用、style标签内sass、script标签的typescript转换压缩",
+  "version": "0.0.31",
+  "description": "html-style-loader: 鐢ㄤ簬澶勭悊html椤甸潰鍐呯殑鍥剧墖,json绛夎祫婧愬紩鐢ㄣ�乻tyle鏍囩鍐卻ass銆乻cript鏍囩鐨則ypescript杞崲鍘嬬缉",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
