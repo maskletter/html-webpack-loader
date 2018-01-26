@@ -1,0 +1,27 @@
+{
+  "name": "html-webpack-loader",
+  "version": "0.0.2",
+  "description": "html-style-loader: 用于处理html页面内的图片,json等资源引用、style标签内sass、script标签的typescript转换压缩",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13146595984/html-webpack-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "html",
+    "loader"
+  ],
+  "author": "maskletter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13146595984/html-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/13146595984/html-webpack-loader#readme",
+  "dependencies": {
+    "typescript-simple": "^8.0.5"
+  }
+}
