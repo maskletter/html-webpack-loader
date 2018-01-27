@@ -146,10 +146,4 @@ html使用
 </html>
 ```
 
-
-```html
-v0.0.5
-	添加import资源引用，添加页面/css/javascript公共部分引用
-v0.0.4
-	更换模板解析方式，修复script编译报错bug
-```
+email:[maskletter@outlook.com](mailto:maskletter@outlook.com)
