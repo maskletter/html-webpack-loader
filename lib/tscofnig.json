@@ -1,3 +1,16 @@
 {
-	"noImplicitAny": false
+    
+    "module": "commonjs",
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "allowJs": true,
+    "declaration": false,
+    "removeComments": false,
+    "stripInternal": true,
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "noImplicitThis": false,
+    "strictNullChecks": false
 }
