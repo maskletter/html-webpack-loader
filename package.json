@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-loader",
-  "version": "0.0.43",
+  "version": "0.0.5",
   "description": "html-style-loader: 用于处理html页面内的图片,json等资源引用、style标签内sass、script标签的typescript转换压缩",
   "main": "index.js",
   "scripts": {

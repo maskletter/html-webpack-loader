@@ -9,8 +9,8 @@
     "declaration": false,
     "removeComments": false,
     "stripInternal": true,
-    "alwaysStrict": true,
-    "noImplicitAny": true,
+    "alwaysStrict": false,
+    "noImplicitAny": false,
     "noImplicitThis": false,
     "strictNullChecks": false
 }
